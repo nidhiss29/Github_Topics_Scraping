@@ -1,2 +1,1 @@
-# Github_Topics_Scraping
-This project helps in scraping top 25 repositories of top topics on github
+https://jovian.com/nidhi-singhal-cseaiml-2020/scraping-github-topics-repository
