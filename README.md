@@ -43,10 +43,13 @@ jupyter
 ```
 
 - Else directly open jupyter notebook and run project
-- At the end it will fetch .csv files with fetched data of each topic separately
+- At the end it will fetch .csv files with top repositories data of each topic separately
 <p align="center">
 <img src="./images/2023-04-16 (11).png" alt="Github" width = 30% />
 </p>
+
+
+-This is what to expect within csv files about repositories
 
 
 
