@@ -45,7 +45,7 @@ jupyter
 - Else directly open jupyter notebook and run project
 - At the end it will fetch .csv files with fetched data of each topic separately
 <p align="center">
-<img src="./images/2023-04-16 (11).png" alt="Github" />
+<img src="./images/2023-04-16 (11).png" alt="Github" width = 50% />
 </p>
 
 
