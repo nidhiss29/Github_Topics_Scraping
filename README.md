@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/GitHub-Mark.png" alt="Github" width = 10%/>
+<img src="./images/GitHub-Mark.png" alt="Github" width = 20%/>
 </p>
 <h1 align="center">Github Top Topic Scraper</h1>
 <p align="center">
