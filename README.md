@@ -14,6 +14,7 @@ Scraping Github website to fetch 25 top repository from Github Top Topics
 <img src="./images/2023-04-16 (10).png" alt="Github" />
 </p>
 
+-Library Used : [Beautiful Soup]{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}
 
 # Local Deployment
 
