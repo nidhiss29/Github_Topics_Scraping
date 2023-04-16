@@ -50,6 +50,9 @@ jupyter
 
 
 -This is what to expect within csv files about repositories
+<p align="center">
+<img src="./images/2023-04-16 (12).png" alt="Github" width = 30% />
+</p>
 
 
 
