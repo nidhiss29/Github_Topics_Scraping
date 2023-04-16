@@ -2,9 +2,6 @@
 <img src="./images/GitHub-Mark.png" alt="Github" width = 20%/>
 </p>
 <h1 align="center">Github Top Topic Scraper</h1>
-<p align="center">
-Scraping Github Website for Best 25 Repositories on Trending Top topics .
-</p>
 
 
 # Introduction
